@@ -2,7 +2,7 @@
 # “Fake News!” Detector
 
 
-![Logo](Image/fake_news_logo.jpg)
+![Logo](static/img/fake_news_logo.jpg)
 
 # Background and Motivation: 
 
